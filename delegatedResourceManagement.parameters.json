@@ -1,0 +1,24 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2018-05-01/subscriptionDeploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "mspOfferName": {
+            "value": "Cyber Sheath Managed Services"
+        },
+        "mspOfferDescription": {
+            "value": "Cyber Sheath Managed Security Services Offering"
+        },
+        "managedByTenantId": {
+            "value": "dcf04db5-191c-4785-b0ad-50afab9dd030"
+        },
+        "authorizations": {
+            "value": [
+                { 
+                    "principalId": "f2cee13e-9426-4a1b-bb9f-9242ebef6181", 
+                    "roleDefinitionId": "8e3af657-a8ff-443c-a75c-2fe8c4bcb635",
+                    "principalIdDisplayName": "Lighthouse Admin Cybersheath" 
+                }
+                    ]
+                }                
+        }
+}
