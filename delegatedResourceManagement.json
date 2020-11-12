@@ -29,13 +29,13 @@
             "metadata": {
                 "description": "Specify an array of objects, containing tuples of Azure Active Directory principalId, a Azure roleDefinitionId, and an optional principalIdDisplayName. The roleDefinition specified is granted to the principalId in the provider's Active Directory and the principalIdDisplayName is visible to customers."
             },
-            "defaultValue": [
+            "defaultValue": 
                 { 
                     "principalId": "f2cee13e-9426-4a1b-bb9f-9242ebef6181", 
                     "roleDefinitionId": "8e3af657-a8ff-443c-a75c-2fe8c4bcb635",
                     "principalIdDisplayName": "Lighthouse Admin Cybersheath" 
                 } 
-            ]
+            
         }              
     },
     "variables": {
