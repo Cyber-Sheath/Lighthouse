@@ -3,10 +3,10 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "mspOfferName": {
-            "value": "New - Cyber Sheath Managed Services"
+            "value": "Cyber Sheath Managed Services"
         },
         "mspOfferDescription": {
-            "value": "New - Cyber Sheath Managed Security Services Offering"
+            "value": "Cyber Sheath Managed Security Services Offering"
         },
         "managedByTenantId": {
             "value": "63c078b3-e1f2-4c75-bcd6-1087621588fa"
