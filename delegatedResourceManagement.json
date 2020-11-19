@@ -7,7 +7,7 @@
             "metadata": {
                 "description": "Specify a unique name for your offer"
             },
-            "defaultValue": "CyberSheath - MSSP"
+            "defaultValue": "New - CyberSheath - MSSP"
 
         },
         "mspOfferDescription": {
@@ -15,7 +15,7 @@
             "metadata": {
                 "description": "Name of the Managed Service Provider offering"
             },
-            "defaultValue": "Managed Security Services through Azure"
+            "defaultValue": "New - Managed Security Services through Azure"
         },
         "managedByTenantId": {
             "type": "string",
