@@ -22,7 +22,7 @@
             "metadata": {
                 "description": "Specify the tenant id of the Managed Service Provider"
             },
-            "defaultValue": "dcf04db5-191c-4785-b0ad-50afab9dd030"
+            "defaultValue": "63c078b3-e1f2-4c75-bcd6-1087621588fa"
         },
         "authorizations": {
             "type": "array",
@@ -31,7 +31,7 @@
             },
             "defaultValue": 
                 { 
-                    "principalId": "f2cee13e-9426-4a1b-bb9f-9242ebef6181", 
+                    "principalId": "a3b167dc-20e4-412b-985c-4d55a2cf1d20", 
                     "roleDefinitionId": "b24988ac-6180-42a0-ab88-20f7382dd24c",
                     "principalIdDisplayName": "Lighthouse Admin Cybersheath" 
                 } 
